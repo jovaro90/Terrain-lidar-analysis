@@ -6,6 +6,10 @@ Mapa elaborat a partir del MDT 5m de l'ICGC.
 
 ![MDT](localizacion.png)
 ![MDT](MDT.png)
+![MDT](HS.png)
+![MDT](CURVAS.png)
+![MDT](pendiente.png)
+![MDT](orientacion.png)
 
 ## Dades utilitzades
 
