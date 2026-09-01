@@ -9,7 +9,7 @@ y la orientación de las laderas.
 
 ---
 
-## 📍 Localización del ámbito de estudio
+##  Localización del ámbito de estudio
 
 ![Localización del ámbito de estudio](localizacion.png)
 
@@ -18,7 +18,7 @@ situadas en el Pirineo catalán.
 
 ---
 
-## 🏔️ Modelo Digital del Terreno
+##  Modelo Digital del Terreno
 
 ![Modelo Digital del Terreno](MDT.png)
 
@@ -27,7 +27,7 @@ la base para el análisis de las características topográficas del territorio.
 
 ---
 
-## 🌄 Sombreado del relieve
+##  Sombreado del relieve
 
 ![Sombreado del relieve](HS.png)
 
@@ -37,7 +37,7 @@ del terreno.
 
 ---
 
-## 📐 Curvas de nivel
+##  Curvas de nivel
 
 ![Curvas de nivel](CURVAS.png)
 
@@ -46,7 +46,7 @@ interpretar la configuración del relieve.
 
 ---
 
-## 📊 Pendiente
+##  Pendiente
 
 ![Pendiente](pendiente.png)
 
@@ -55,7 +55,7 @@ y permite identificar las zonas más abruptas y las áreas de menor pendiente.
 
 ---
 
-## 🧭 Orientación
+##  Orientación
 
 ![Orientación](orientacion.png)
 
@@ -63,16 +63,16 @@ La orientación representa la dirección hacia la que se inclina cada ladera.
 
 ---
 
-# 🗂️ Datos utilizados
+#  Datos utilizados
 
 - **Modelo Digital del Terreno (MDT) de 5 m** — Institut Cartogràfic i Geològic de Catalunya (ICGC).
 - **Límites administrativos** — ICGC.
 
-# 🛠️ Software utilizado
+#  Software utilizado
 
 - QGIS 3.44
 
-# 👤 Autor
+#  Autor
 
 **Jordi Valls**  
 GIS Analyst | WebGIS Developer | Oceanógrafo
